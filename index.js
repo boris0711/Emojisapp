@@ -1,4 +1,4 @@
-let myEmojis = []
+let myEmojis = ["👨‍💻", "⛹🏼", " 🚴🏼‍♂️", "🥊","🏋️"]
 const emojiContainer = document.getElementById("emoji-container")
 const emojiInput = document.getElementById("emoji-input")
 const pushBtn = document.getElementById("push-btn")
